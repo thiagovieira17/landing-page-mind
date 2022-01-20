@@ -86,8 +86,8 @@ button {
     gap: 15px;
 }
 
-.section-icon img {
-    width: 60%;
+.icon-img {
+    width: 100%;
 }
 
 /*Waves*/
@@ -149,7 +149,7 @@ section .wave.wave4 {
         gap: 45px;
     }
 
-    #section img {
+    .logo{
         width: 18%;
     }
 
@@ -159,23 +159,21 @@ section .wave.wave4 {
     }
 
     button {
-        width: 240px;
+        width: 244px;
         font-size: 15px;
         padding: 15px;
     }
 
     .section-icon {
-        display: flex;
-        justify-content: center;
-        gap: 15px;
-        width: 90px;
+        width: 5%;
     }
+
 }
 
 @media (max-width: 420px) {
 
     #section {
-        padding-top: 3em;
+        padding-top: 6em;
     }
 
     #section img {
@@ -185,6 +183,14 @@ section .wave.wave4 {
     .titulo {
         width: 100%;
         padding: 10px;
+    }
+
+    .section-icon {
+        width: 20%;
+    }
+
+    .link-icon {
+        width: 100%;
     }
 }
 
