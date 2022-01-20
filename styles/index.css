@@ -86,8 +86,17 @@ button {
     gap: 15px;
 }
 
-.icon-img {
+#icon-img {
     width: 100%;
+    color: white;
+    transition: 0.5s;
+}
+
+#icon-img:hover {
+    color: #EF2D2D;
+    transition: 0.5s;
+    transform: scale(1.2);
+    opacity: 60;
 }
 
 /*Waves*/
@@ -164,7 +173,7 @@ section .wave.wave4 {
         padding: 15px;
     }
 
-    .section-icon {
+    #section-icon {
         width: 5%;
     }
 
@@ -189,7 +198,7 @@ section .wave.wave4 {
         width: 20%;
     }
 
-    .link-icon {
+    #link-icon {
         width: 100%;
     }
 }
