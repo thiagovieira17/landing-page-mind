@@ -145,7 +145,7 @@ section .wave.wave4 {
 }
 @media (max-width: 1366px) and (max-height: 768px){
     #section {
-        padding-top: 10em;
+        padding-top: 8em;
         gap: 45px;
     }
 
