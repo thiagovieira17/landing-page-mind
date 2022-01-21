@@ -48,7 +48,7 @@ section {
 }
 
 button {
-    background-color: #EF2D2D;
+    background-color: #6B71FF;
     color: white;
     width: 300px;
     height: 60px;
@@ -60,7 +60,7 @@ button {
 }
 
 .neon {
-    color: #EF2D2D;  
+    color: #6B71FF;  
     text-decoration: none;
     transition: 0.5s;
     letter-spacing: 4px;
@@ -68,8 +68,8 @@ button {
 }
 
 .neon:hover {
-    background: #EF2D2D;
-    box-shadow: 0 0 5px #ef2d2d96, 0 0 25px #ef2d2d80, 0 0 50px #ef2d2d44, 0 0 200px #ef2d2d56;
+    background: #6B71FF;
+    box-shadow: 0 0 5px #6b70ffbb, 0 0 25px #6b70ff7c, 0 0 50px #6b70ff88, 0 0 200px #6b70ff7a;
 }
 
 #section {
@@ -93,7 +93,7 @@ button {
 }
 
 #icon-img:hover {
-    color: #EF2D2D;
+    color: #6B71FF;
     transition: 0.5s;
     transform: scale(1.2);
     opacity: 60;
